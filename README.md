@@ -111,4 +111,3 @@ I created the following charts to present my findings:
 ## Conclusion
 
 This project provides insights into ABC Company's workforce, helping improve HR strategies and financial planning. Implementing the recommendations can lead to better management and employee satisfaction.
-hjkooii
