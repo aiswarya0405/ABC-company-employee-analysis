@@ -94,7 +94,7 @@ In the Jupyter Notebook, you can load the dataset using the following code:
 import pandas as pd
 
 # Load the dataset
-df = pd.read_excel(r'C:\Users\asus\Downloads\myexcel.xlsx') 
+df = pd.read_excel(r'C:\Users\asus\Downloads\myexcel.xlsx')```
 
 ## Tools Used
 
