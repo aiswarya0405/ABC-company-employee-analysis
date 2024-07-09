@@ -91,7 +91,6 @@ This dataset contains information about the employees of ABC Company, including 
 In the Jupyter Notebook, you can load the dataset using the following code:
 ```bash
 import pandas as pd
-# Load the dataset
 df = pd.read_excel(r'path\myexcel.xlsx')
  ```
 
