@@ -7,7 +7,7 @@ This project analyzes the employee data of ABC Company. The dataset includes inf
 ## Preprocessing Steps
 
 1. **Loading the Dataset**:
-   - I have loaded the dataset from an Excel file using the pandas library.
+   - I loaded the dataset from an Excel file using the pandas library.
 
 2. **Fixing Data**:
    - I fixed the "Height" column by replacing it with random numbers between 150 and 180 to ensure the data was consistent.
