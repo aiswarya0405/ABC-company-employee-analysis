@@ -78,6 +78,24 @@ I created the following charts to present my findings:
 4. **Fair Salaries**: Ensure fair salary structures.
 5. **Career Paths**: Create clear career progression paths.
 
+## Dataset
+
+The dataset used for this analysis is included in the repository. You can find the dataset file [here](./myexcel.xlsx).
+
+**File**: `myexcel.xlsx`
+
+This dataset contains information about the employees of ABC Company, including their team, position, age, height, weight, college, and salary.
+
+### Loading the Dataset
+
+In the Jupyter Notebook, you can load the dataset using the following code:
+
+```python
+import pandas as pd
+
+# Load the dataset
+df = pd.read_excel(r'path\myexcel.xlsx')
+
 ## Tools Used
 
 - **Programming Language**: Python
